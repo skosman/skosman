@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Welcome to my github 😊
+#### Welcome to my github
 
 <!--
 **skosman/skosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
